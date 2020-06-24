@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 ### Запуск приложения
 ```
-python appplication.py
+python application.py
 ```
 или
 ```
